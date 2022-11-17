@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+    width: 90%;
+    margin: 0 auto;
+    background: black;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 20px;
+}
